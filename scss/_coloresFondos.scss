@@ -1,0 +1,19 @@
+body{
+    background-color: $color1;
+    font-family: 'Times New Roman', Times, serif;
+}
+.colorFondo{
+    background-color: $color2;
+}
+
+.colorFondo2{
+    background-color:$color2;
+}
+
+.colorFondo3{
+    background-color:$color2;
+    .colorFondo4{
+        background-color: $color1;
+    }
+}
+

@@ -1,0 +1,58 @@
+body {
+  background-color: #fdfacd;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.colorFondo {
+  background-color: #e6ce6d;
+}
+
+.colorFondo2 {
+  background-color: #e6ce6d;
+}
+
+.colorFondo3 {
+  background-color: #e6ce6d;
+}
+
+.colorFondo3 .colorFondo4 {
+  background-color: #fdfacd;
+}
+
+.carousel-inner img {
+  width: 60%;
+  padding: 10px;
+  margin: auto;
+}
+
+.carousel-inner img .carousel-inner {
+  height: 500px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+/*footer*/
+ul {
+  list-style: none;
+}
+
+ul li {
+  padding: 10px;
+  display: inline-block;
+}
+
+ul li a {
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+}
+
+ul li a:hover {
+  background-color: #ebdfbe;
+}
+/*# sourceMappingURL=style.css.map */
