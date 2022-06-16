@@ -55,4 +55,14 @@ ul li a {
 ul li a:hover {
   background-color: #ebdfbe;
 }
+
+.sectionProyectos {
+  background-color: #e6ce6d;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  border-radius: 7px;
+  margin: 10px 100px;
+  color: black;
+}
 /*# sourceMappingURL=style.css.map */

@@ -1,0 +1,7 @@
+@mixin sectionProyectos ($bg, $color) {
+    background-color: $bg;
+    justify-content: center;
+    border-radius: 7px;
+    margin: 10px 100px;
+    color: $color;
+}
